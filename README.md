@@ -13,10 +13,10 @@ green = hit
 red = miss
 you have unlimited tries to hit. the game uses 5 ships with different sizes. the sizes are as followed:
 
-x1 - 5 tile ship
-1x - 4 tile ship
-1x - 3 tile ship
-2x - 2 tile ships
+x1 - 5 tile ship.
+1x - 4 tile ship.
+1x - 3 tile ship.
+2x - 2 tile ships.
 
 the sizes are based on the base board game
 
