@@ -3,7 +3,7 @@
 Battleship is a game about sinking the other players ship. i have made a version of the game where you play against a computer, where the goal is to sink the 5 ships with as few tries as possible
 the game is targeted to people who wants to play battleship but do not have anyone to play with.
 
-#Features
+# Features
 
 ![image](https://github.com/lamputtha/Battleship/assets/131886359/6bedfd65-bf50-4d2b-9d85-3e6fbd73112a)
 
